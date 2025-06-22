@@ -1,0 +1,4 @@
+# Fichiers sensibles à ignorer
+/includes/config.php
+/includes/db.php
+/assets/img
